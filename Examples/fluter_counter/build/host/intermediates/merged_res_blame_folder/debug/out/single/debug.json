@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "L:\\test\\Flutter_Practice\\fluter_counter\\build\\host\\intermediates\\res\\merged\\debug\\drawable_launch_background.xml.flat",
+        "source": "L:\\test\\Flutter_Practice\\fluter_counter\\.android\\app\\src\\main\\res\\drawable\\launch_background.xml"
+    },
+    {
+        "merged": "L:\\test\\Flutter_Practice\\fluter_counter\\build\\host\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "L:\\test\\Flutter_Practice\\fluter_counter\\.android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    }
+]
