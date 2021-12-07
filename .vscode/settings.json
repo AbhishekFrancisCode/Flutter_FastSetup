@@ -1,0 +1,7 @@
+{
+  "files.exclude": {
+    "Examples\\fluter_counter": true,
+    "Examples\\flutter_list": true,
+    "Examples\\main.dart": true
+  }
+}
