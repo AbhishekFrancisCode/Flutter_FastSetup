@@ -42,7 +42,7 @@ class MapSampleState extends State<MapSample> {
                 point: LatLng(latitude, longitude),
                 builder: (ctx) => const Icon(
                   Icons.location_pin,
-                  color: Colors.red,
+                  color: Colors.purple,
                 ),
               ),
             ],
